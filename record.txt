@@ -1,0 +1,19 @@
+# Record of this project
+
+Language: Python 2.7.1 (x64)
+
+Required Modules:
+
+Required Libs:
+
+
+# Construction of this system
+
+input.xml: used to set input args
+ultility.py: common used functions
+
+imagepro.py: including image process, feature detectors, feature descriptors and so on.
+
+quantization.py: including feature quantization methods.
+
+
